@@ -1,0 +1,65 @@
+.App {
+  text-align: center;
+}
+
+h1 {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+  padding:10px;
+}
+.Header{
+  font-weight:700;
+  margin-top:12px;
+  padding-bottom:2px;
+}
+
+button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin-top: 400px;
+  margin-left:100px;  
+
+}
+
+
+p {
+  font-size: 1.2rem;
+  margin-top: 20px;
+}
+#show_Result{
+  
+  position: relative;
+  margin-top: 70px;
+}
+
+#date{
+  padding-right: 10px;
+}
+
+.calendar-icon{
+    position:absolute;
+    margin-left:-20px;
+    margin-top:8px;
+    display: absolute;
+    cursor: pointer;
+}
+#calc_button{
+  margin-left:-210px;
+  margin-top:50px;
+  position:absolute;
+}
+#date{
+  margin-top:-10px;
+}
+
+.custom-input input{
+  width: 300px;
+  padding-left:10px;
+  cursor: pointer;
+} 
+
+
+
